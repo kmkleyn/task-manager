@@ -1,0 +1,36 @@
+admin
+Create Task Register
+Create a program that allows the business to create, store and view tasks.
+10/10/2019
+12/10/2019
+Yes
+admin
+Hold Meeting
+Send out emails to invite everyone to the meeting.
+12/10/2019
+13/10/2019
+Yes
+mike1
+Clean Up
+Clean up the mugs around the office, wash and dry them, then pack them away.
+31/10/2019
+23/10/2019
+No
+luna
+Hunt Mice
+Hunt down all the mice in the office.
+01/11/2019
+23/10/2019
+No
+cp3o
+Drive Guests
+Pick up the guests from the airport and bring them to the company.
+04/11/2019
+23/10/2019
+No
+mike1
+Carry Things
+Carry things from the bakkie to the office.
+12/12/2019
+23/10/2019
+No
